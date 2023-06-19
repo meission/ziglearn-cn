@@ -1,4 +1,4 @@
 zig-*/
 junk*
 test-out/
-history/
+.history/
